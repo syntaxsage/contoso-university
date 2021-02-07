@@ -1,0 +1,6 @@
+# Compiled Files
+bin/
+obj/
+
+# Visual Studio Code Files
+.vscode/
